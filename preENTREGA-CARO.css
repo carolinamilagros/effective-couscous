@@ -1,0 +1,73 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    color: rgb(241, 243, 244);
+    font-weight: 600;
+    
+
+}
+.navbar{background-color: violet;
+    
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+}
+.navbar a{color: rgb(0, 0, 0);
+font-size: 30px; 
+}
+
+.julio{margin-top: 100px;
+
+}
+
+.j{
+    margin-top: 50px;
+}
+    
+body{background-image: url("imagenes/pexels-moose-photos-1037993.jpg");
+background-size:cover;}
+
+    
+span{   color: black;
+font-size: 30px;  } 
+
+h3{color: black;}
+p{font-size: 25px;}
+  li {font-size: 25px;
+  list-style-type: lower-greek;
+ }
+.nav-item{   list-style: none;}
+
+
+    
+div i{color: black;
+   font-size: 46px;
+    margin-top: 20px;    
+padding:16px ;   }
+
+footer{background-color: violet;}
+
+h2{margin-top: 30px;}
+
+.caja{
+height: 200px;
+width: 200px;
+    text-align: center;
+    border: 5px solid black; 
+    background-color: purple;
+    
+    line-height: 180px;
+   
+    -webkit-transition: 1s linear;
+  transition: 1s linear;
+    
+    font-size: 18px;
+    font-family: Arial
+    
+}
+.caja:hover{
+    -webkit-transform: scale(.5);
+    transform: scale(.5);
+  }
